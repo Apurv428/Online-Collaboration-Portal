@@ -8,6 +8,8 @@
 <!-- PROJECT SUBTITLE -->
 <h3 align="center">An online collaboration platform</h3>
 
+<h5 align="center"><a href="https://drive.google.com/file/d/1bhSa1p0BOVvyICLqNp6ZbQSuL7dImoa-/view?usp=sharing">Demo Video</a></hi>
+
 <hr />
 <br />
 
